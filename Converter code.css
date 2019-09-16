@@ -1,0 +1,59 @@
+ #title{
+     font-family: Georgia,"Pink Blue", Arial;
+     color: Red;
+     font-size: 40px;
+}
+ body{
+     background-color:#f0f0c0;
+ }
+ #border1 {
+ 	       margin-left: 200px;
+ 	       margin-right: 200px;
+ 	       padding-top:5px;
+ 	       padding-bottom:2px;
+ 	       border-style: dashed;
+           border-color: #FF6600; 
+           border-width: 5px;
+           font-family: "Courier New";
+           font-size: 40px;
+ }
+ #instruction {
+ 	        font-size: 50px;
+ 	        font-family:Georgia; 
+ 	        color: dodgerblue;
+ }
+ #border2 {
+ 	       margin-left: 200px;
+ 	       margin-right: 200px;
+ 	       padding-top:5px;
+ 	       padding-bottom:2px;
+ 	       border-style: dashed;
+           border-color: #FF6600; 
+           border-width: 5px;
+           font-family: "Courier New";
+           font-size: 40px;
+       }
+
+.inputText1 {
+    margin-top: 7px;
+    margin-bottom: 30px;
+    font-size: 25pt;
+    padding: 20px 15px 10px;
+    width: 270px;
+    font-family: Georgia, Arial;
+    color: dodgerblue;
+  }
+#b1 {
+  font-size: 20px;
+}
+#t1 {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+#p2 {
+  font-size: 35px;
+}
+.twitter {
+ font-size: 22px;
+ font-family: Georgia, Arial;
+}
